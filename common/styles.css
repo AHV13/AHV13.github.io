@@ -189,7 +189,9 @@ header ul.main-menu > li > a {
         height: 100%;
         line-height: 70px;
         padding: 0px 15px;
+        
 }
+
 
 /* SEARCH AREA */
 
@@ -210,7 +212,7 @@ header .menu-nav-icon {
         line-height: 60px;
         display: none;
         cursor: pointer;
-        color: #fff;
+        color: #EF0031;
 }
 
 /* DROPDOWN MENU STYLING */
