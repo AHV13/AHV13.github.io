@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: CoverNews Fashion were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.afthemes.com/covernews/fashion
+Data file = /home/afthemes/public_html/demo/covernews/wp-content/themes/covernews/demo-content/fashion/covernews.xml
+Widget file = /home/afthemes/public_html/demo/covernews/wp-content/themes/covernews/demo-content/fashion/covernews.wie
+Customizer file = /home/afthemes/public_html/demo/covernews/wp-content/themes/covernews/demo-content/fashion/covernews.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+storymag_tabbed_posts - No Title - Site does not support widget
+storymag_social_contacts - No Title - Site does not support widget
+
+Front-page Content Section : 
+
+storymag_posts_slider - No Title - Site does not support widget
+storymag_double_col_categorised_posts - No Title - Site does not support widget
+storymag_posts_grid - No Title - Site does not support widget
+storymag_posts_carousel - No Title - Site does not support widget
+
+Front-page Sidebar Section : 
+
+storymag_author_info - No Title - Site does not support widget
+storymag_social_contacts - No Title - Site does not support widget
+storymag_tabbed_posts - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

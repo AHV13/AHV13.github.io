@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: CoverNews Fashion were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/myc
+Data file = C:\xampp\htdocs\myc/wp-content/themes/covernews/demo-content/fashion/covernews.xml
+Widget file = C:\xampp\htdocs\myc/wp-content/themes/covernews/demo-content/fashion/covernews.wie
+Customizer file = C:\xampp\htdocs\myc/wp-content/themes/covernews/demo-content/fashion/covernews.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Front-page Content Section : 
+
+CoverNews Posts Slider - No Title - Imported
+CoverNews Posts Grid - No Title - Imported
+CoverNews Posts Carousel - No Title - Imported
+CoverNews Double Categories Posts - No Title - Imported
+
+Front-page Sidebar Section : 
+
+CoverNews Author Info - No Title - Imported
+CoverNews Social Contacts - No Title - Imported
+CoverNews Tabbed Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
